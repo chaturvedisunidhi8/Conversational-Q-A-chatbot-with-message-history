@@ -6,7 +6,7 @@ Features:
 
  Contextual Q&A: Answers based on current and previous messages.
 
-📚 Message History: Keeps track of conversations for better context.
+ Message History: Keeps track of conversations for better context.
 
 🌐 Web/Knowledge Integration: Pulls information from websites or documents.
 
