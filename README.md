@@ -8,7 +8,7 @@ Features:
 
  Message History: Keeps track of conversations for better context.
 
-🌐 Web/Knowledge Integration: Pulls information from websites or documents.
+ Web/Knowledge Integration: Pulls information from websites or documents.
 
 🤖 Interactive Interface: Can be used with Streamlit, web apps, or other platforms.
 
