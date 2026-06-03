@@ -10,7 +10,7 @@ Features:
 
  Web/Knowledge Integration: Pulls information from websites or documents.
 
-🤖 Interactive Interface: Can be used with Streamlit, web apps, or other platforms.
+ Interactive Interface: Can be used with Streamlit, web apps, or other platforms.
 
 🛠️ Extensible: Add more tools, APIs, or custom logic easily.
 
