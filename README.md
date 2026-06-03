@@ -12,7 +12,7 @@ Features:
 
  Interactive Interface: Can be used with Streamlit, web apps, or other platforms.
 
-🛠️ Extensible: Add more tools, APIs, or custom logic easily.
+ Extensible: Add more tools, APIs, or custom logic easily.
 
 Technologies Used:
 
