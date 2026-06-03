@@ -4,7 +4,7 @@ This project is an intelligent conversational chatbot that can answer questions 
 
 Features:
 
-🧠 Contextual Q&A: Answers based on current and previous messages.
+ Contextual Q&A: Answers based on current and previous messages.
 
 📚 Message History: Keeps track of conversations for better context.
 
