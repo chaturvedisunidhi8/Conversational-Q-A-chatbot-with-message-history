@@ -16,9 +16,9 @@ Features:
 
 Technologies Used:
 
-Python 🐍
+Python 
 
-LangChain 🔗
+LangChain 
 
-Ollama/ LLMs 🤖🗄️
+Ollama/ LLMs 
 
